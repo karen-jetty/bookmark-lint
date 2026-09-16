@@ -1,0 +1,11 @@
+[package]
+name = "bookmark-lint"
+version = "0.1.0"
+edition = "2021"
+authors = ["karen-jetty"]
+description = "A linter for browser bookmark exports with precise line/column diagnostics"
+license = "MIT"
+
+[[bin]]
+name = "bookmark-lint"
+path = "src/main.rs"
