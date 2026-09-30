@@ -84,5 +84,5 @@ renders findings in the compiler-style format shown above.
 ## Status
 
 Early. The lint rules so far: missing `href`, empty `href`, duplicate URLs,
-and missing titles. See the issue tracker (or the roadmap in commit
+missing titles, and `javascript:` bookmarklet links. See the issue tracker (or the roadmap in commit
 history) for what's planned next.
